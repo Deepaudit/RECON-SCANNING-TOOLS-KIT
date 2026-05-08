@@ -28,7 +28,7 @@
 ┌──[recon@hunter]─[~]
 └─$ cat profile.txt
 
-  Name     : [SEU NOME]
+  Name     : PABLO CYBER
   Role     : Security Researcher / Recon Specialist
   Focus    : Attack Surface Mapping | OSINT | Bug Bounty
   Location : Brazil 🇧🇷
